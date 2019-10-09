@@ -1,2 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
+# 允许所有的爬虫漫游器访问您的网页
 User-agent: *
+Disallow:
